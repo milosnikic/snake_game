@@ -3,7 +3,7 @@ from telnetlib import GA
 
 import pygame
 
-from models import CELL_NUMBER, CELL_SIZE, Fruit, Game, Snake
+from models import CELL_NUMBER, CELL_SIZE, Game
 
 pygame.init()
 
